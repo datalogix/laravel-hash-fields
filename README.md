@@ -20,3 +20,36 @@ composer require datalogix/laravel-hash-fields
 The package will automatically register itself.
 
 ## Usage
+
+Your Eloquent models should use the `Datalogix\HashFields\HashFields` trait.
+
+Here's an example of how to implement the trait:
+
+```php
+namespace App;
+
+use Datalogix\HashFields\HashFields;
+use Illuminate\Database\Eloquent\Model;
+
+class YourEloquentModel extends Model
+{
+    use HashFields;
+}
+```
+
+## Customizing fields to hash
+
+You can also override of property `fieldsToHash`.
+
+By default the package will hashed `password` field.
+
+```php
+/**
+ * The model's fields to hash.
+ *
+ * @var array
+ */
+protected static $fieldsToHash = [
+    'password',
+];
+```
