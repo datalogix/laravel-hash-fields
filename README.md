@@ -3,7 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/datalogix/laravel-hash-fields/version)](https://packagist.org/packages/datalogix/laravel-hash-fields)
 [![Total Downloads](https://poser.pugx.org/datalogix/laravel-hash-fields/downloads)](https://packagist.org/packages/datalogix/laravel-hash-fields)
 [![tests](https://github.com/datalogix/laravel-hash-fields/workflows/tests/badge.svg)](https://github.com/datalogix/laravel-hash-fields/actions)
-[![StyleCI](https://github.styleci.io/repos/418647775/shield?style=flat)](https://github.styleci.io/repos/418647775)
+[![StyleCI](https://github.styleci.io/repos/419068746/shield?style=flat)](https://github.styleci.io/repos/419068746)
 [![codecov](https://codecov.io/gh/datalogix/laravel-hash-fields/branch/main/graph/badge.svg)](https://codecov.io/gh/datalogix/laravel-hash-fields)
 [![License](https://poser.pugx.org/datalogix/laravel-hash-fields/license)](https://packagist.org/packages/datalogix/laravel-hash-fields)
 

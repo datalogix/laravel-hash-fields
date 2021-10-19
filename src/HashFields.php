@@ -13,7 +13,7 @@ trait HashFields
      * @var array
      */
     protected static $fieldsToHash = [
-        'password'
+        'password',
     ];
 
     /**
