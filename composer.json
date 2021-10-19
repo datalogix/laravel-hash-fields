@@ -1,6 +1,6 @@
 {
     "name": "datalogix/laravel-hash-fields",
-    "description": "Laravel Hash Fields automatically hash ​model fields",
+    "description": "Laravel Hash Fields automatically hash ​model fields.",
     "keywords": [
         "laravel",
         "hash",
