@@ -1,5 +1,10 @@
 # Laravel Hash Fields
 
+> **Warning**
+> We have decided to stop maintaining this package.
+>
+> Consider to use [Attribute Casting](https://laravel.com/docs/10.x/eloquent-mutators#attribute-casting) of type `hashed`.
+
 [![Latest Stable Version](https://poser.pugx.org/datalogix/laravel-hash-fields/version)](https://packagist.org/packages/datalogix/laravel-hash-fields)
 [![Total Downloads](https://poser.pugx.org/datalogix/laravel-hash-fields/downloads)](https://packagist.org/packages/datalogix/laravel-hash-fields)
 [![tests](https://github.com/datalogix/laravel-hash-fields/workflows/tests/badge.svg)](https://github.com/datalogix/laravel-hash-fields/actions)
